@@ -7,6 +7,7 @@
 > - Website used for making Edu mail is [this](https://www.opencccapply.net/gateway/apply) 🔗
 > - Will get all relevant information related to your account in mail-id provided by you ✉️
 
+---
 ### Note
 
 - ```This project is not made by me. I've just modified it```  ☺️
@@ -15,6 +16,7 @@
 
 🔖 ⚠️ ## Only For Educational Purpose 🎓
 
+---
 ## Screenshots
 
 - First ever page you'll encounter
@@ -45,8 +47,7 @@
 <img width="663" alt="edu-mail-7" src="https://user-images.githubusercontent.com/40369168/122653923-a714ea80-d165-11eb-975b-b9a014af92d2.PNG">
 <img width="660" alt="edu-mail-8" src="https://user-images.githubusercontent.com/40369168/122653927-aaa87180-d165-11eb-8fdf-9b8c0fdff379.PNG">
 
-
-
+---  
 ## Requirements
 
 - Python `3.7 or higher`
@@ -89,6 +90,7 @@ Type ``` bot.py``` ,if you're using PyCharm  ✅
 
 Follow the instructions to get started with generating your own edu mail 📋
 
+---  
 ## Features 🎁
 
 > - One click install/setup 🖱️
