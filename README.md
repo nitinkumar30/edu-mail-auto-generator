@@ -20,7 +20,7 @@
 ## Screenshots
 
 - The inputs you've to give
-<img width="508" alt="edu-mail-2 (2)" src="https://user-images.githubusercontent.com/40369168/122654100-a3359800-d166-11eb-89f2-e7b56f5c8857.PNG">
+![edu-mail-2 (2)_LI](https://user-images.githubusercontent.com/40369168/122654136-d4ae6380-d166-11eb-9a84-5f4b34990bb4.jpg)
 
 
 - Website open and auto-filling process
