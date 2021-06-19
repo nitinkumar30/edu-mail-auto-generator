@@ -14,7 +14,7 @@
 - ```My main motive was to learn automation & how to bypass recaptcha in Automation using Selenium```
 - ```This was already implemented & I just learned the tutorial```  😇
 
-🔖 ⚠️ ## Only For Educational Purpose 🎓
+## 🔖 ⚠️ Only For Educational Purpose 🎓
 
 ---
 ## Screenshots
