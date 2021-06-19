@@ -9,7 +9,7 @@
 ### Note
 
 - ```This project is not made by me. I've just modified it```
-- ```My main motive was to learn automation & how to bypass recaptcha using Automation/Selenium```
+- ```My main motive was to learn automation & how to bypass recaptcha in Automation using Selenium```
 - ```This was already implemented & I just learned the tutorial```
 
 ## Only For Educational Purpose ##
