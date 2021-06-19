@@ -1,7 +1,7 @@
 # Edu-mail 📧 Generator :bowtie:
 
 > - Generate Free Edu Mail(s) within minutes 
-> - Fully automated process, just 2 inputs
+> - Fully automated process, just 2-3 inputs
 > - Only recaptcha should b completed by you
 > - At last step, don't forget to click Submit
 > - Website used for making Edu mail is [this](https://www.opencccapply.net/gateway/apply) 🔗
