@@ -19,10 +19,6 @@
 ---
 ## Screenshots
 
-- First ever page you'll encounter
-<img width="903" alt="edu-mail-1" src="https://user-images.githubusercontent.com/40369168/122653840-1c33f000-d165-11eb-9f28-88054bc9052f.PNG">
-
-
 - The inputs you've to give
 <img width="904" alt="edu-mail-2" src="https://user-images.githubusercontent.com/40369168/122653849-2e159300-d165-11eb-916b-10d3f4436b8d.PNG">
 
