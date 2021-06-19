@@ -5,6 +5,7 @@
 > - Only recaptcha should b completed by you
 > - At last step, don't forget to click Submit
 > - Website used for making Edu mail is [this](https://www.opencccapply.net/gateway/apply) 🔗
+> - Will get all relevant information related to your account in mail-id provided by you ✉️
 
 ### Note
 
